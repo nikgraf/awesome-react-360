@@ -13,7 +13,7 @@
 
 ## Blog Posts & Articles
 
-* [React VR Hello World](https://github.com/nikgraf/webvr-experiments/blob/master/README.md) - How to build a Forest in React VR.
+* [React VR Hello World](https://github.com/nikgraf/webvr-experiments/blob/master/README.md) - How to build a forest with React VR.
 * [Getting started with React VR](https://www.pluralsight.com/guides/front-end-javascript/getting-started-with-react-vr) - How to build an interactive view of Earth.
 
 ## License
