@@ -10,7 +10,7 @@
 
 ## Presentations
 * [Goodbye Flatland! An Introduction to ReactVR @ React Conf 2017 by Michaela Lehr](https://www.youtube.com/watch?v=CtVo3z_o9Rw&index=22&list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0)
-* [React VR: Build amazing VR experiences using React by Amber Roy & Andrew Imm](https://developers.facebook.com/videos/f8-2017/react-vr-build-amazing-vr-experiences-using-react/)
+* [React VR: Build amazing VR experiences using React @ F8 2017 by Amber Roy & Andrew Imm](https://developers.facebook.com/videos/f8-2017/react-vr-build-amazing-vr-experiences-using-react/)
 
 ## Blog Posts & Articles
 
