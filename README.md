@@ -9,7 +9,7 @@
 - [License](https://github.com/nikgraf/awesome-react-vr#license)
 
 ## Presentations
-* [A Hitchhiker's Guide to React VR](https://youtu.be/m_vUUgI0bo8?t=7h17m8s) @ React Amsterdam 2017 by Nik Graf
+* [A Hitchhiker's Guide to React VR](https://www.youtube.com/watch?v=eYTlTzrNVjw) @ React Amsterdam 2017 by Nik Graf
 * [Goodbye Flatland! An Introduction to React VR](https://www.youtube.com/watch?v=CtVo3z_o9Rw&index=22&list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0) @ React Conf 2017 by Michaela Lehr
 * [React VR: Build amazing VR experiences using React](https://developers.facebook.com/videos/f8-2017/react-vr-build-amazing-vr-experiences-using-react/) @ F8 2017 by Amber Roy & Andrew Imm
 
