@@ -19,6 +19,7 @@
 * [Getting started with React VR](https://www.pluralsight.com/guides/front-end-javascript/getting-started-with-react-vr) - How to build an interactive view of Earth.
 * [How to Make React VR Apps](https://dzone.com/articles/how-to-make-react-vr-apps) - How to build a Tour with Panos
 * [Building a Full-Sphere 3D Image Gallery with React VR](https://www.sitepoint.com/building-a-full-sphere-3d-image-gallery-with-react-vr/) - How to build an interactive Gallery
+* [Building a realtime React VR app](https://blog.pusher.com/building-a-realtime-react-vr-app/) - How to build real-time VR music instrument
 
 ## License
 
