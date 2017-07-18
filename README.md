@@ -13,6 +13,9 @@
 * [Goodbye Flatland! An Introduction to React VR](https://www.youtube.com/watch?v=CtVo3z_o9Rw&index=22&list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0) @ React Conf 2017 by Michaela Lehr
 * [React VR: Build amazing VR experiences using React](https://developers.facebook.com/videos/f8-2017/react-vr-build-amazing-vr-experiences-using-react/) @ F8 2017 by Amber Roy & Andrew Imm
 
+## Components
+* [centro-ui](https://github.com/Centroida/CentroUI) - UI component library designed for building WebVR interfaces
+
 ## Blog Posts & Articles
 
 * [React VR Hello World](https://github.com/nikgraf/webvr-experiments/blob/master/README.md) - How to build a forest with React VR.
