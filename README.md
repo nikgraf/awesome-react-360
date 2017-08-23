@@ -23,8 +23,9 @@
 * [Building a Full-Sphere 3D Image Gallery with React VR](https://www.sitepoint.com/building-a-full-sphere-3d-image-gallery-with-react-vr/) - How to build an interactive Gallery.
 * [Building a realtime React VR app](https://blog.pusher.com/building-a-realtime-react-vr-app/) - How to build real-time VR music instrument.
 
-## Components
-* [centro-ui](https://github.com/Centroida/CentroUI) - UI component library designed for building WebVR interfaces.
+## Frameworks and Components
+* [LiveTourLab](https://github.com/livetourlab/live-tour-lab) - Framework for creating Live Tours
+* [CentroUI](https://github.com/Centroida/CentroUI) - UI component library designed for building WebVR interfaces.
 
 ## License
 
