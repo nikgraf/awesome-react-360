@@ -14,6 +14,10 @@
 * [Goodbye Flatland! An Introduction to React VR](https://www.youtube.com/watch?v=CtVo3z_o9Rw&index=22&list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0) at React Conf 2017 by Michaela Lehr
 * [React VR: Build amazing VR experiences using React](https://developers.facebook.com/videos/f8-2017/react-vr-build-amazing-vr-experiences-using-react/) at F8 2017 by Amber Roy & Andrew Imm
 
+## Courses
+
+* [Build VR Experiences Using React VR](https://egghead.io/courses/build-virtual-reality-experiences-using-react-vr) - Free 36min Egghead Course on ReactVR Basics
+
 ## Blog Posts & Articles
 
 * [Prototyping with React VR](https://medium.com/airbnb-engineering/prototyping-with-react-vr-4d5ab91b6f5a) - Prototyping with React VR at Airbnb.
