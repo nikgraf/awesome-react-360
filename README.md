@@ -31,6 +31,7 @@
 ## Frameworks and Components
 * [LiveTourLab](https://github.com/livetourlab/live-tour-lab) - Framework for creating Live Tours
 * [CentroUI](https://github.com/Centroida/CentroUI) - UI component library designed for building WebVR interfaces.
+* [GazeButton](https://github.com/mathdroid/react-vr-gaze-button) - Extension of ReactVR's `VrButton`. Gaze for `{duration}` to click.
 
 ## License
 
