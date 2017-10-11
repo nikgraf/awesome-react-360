@@ -16,7 +16,7 @@
 
 ## Courses
 
-* [Build VR Experiences Using React VR](https://egghead.io/courses/build-virtual-reality-experiences-using-react-vr) - Free 36min Egghead Course on ReactVR Basics
+* [Build VR Experiences Using React VR](https://egghead.io/courses/build-virtual-reality-experiences-using-react-vr) - Free 36min Egghead Course on ReactVR Basics.
 
 ## Blog Posts & Articles
 
@@ -29,10 +29,10 @@
 * [Building a realtime React VR app](https://blog.pusher.com/building-a-realtime-react-vr-app/) - How to build real-time VR music instrument.
 
 ## Frameworks and Components
-* [LiveTourLab](https://github.com/livetourlab/live-tour-lab) - Framework for creating Live Tours
+* [LiveTourLab](https://github.com/livetourlab/live-tour-lab) - Framework for creating Live Tours.
 * [CentroUI](https://github.com/Centroida/CentroUI) - UI component library designed for building WebVR interfaces.
 * [GazeButton](https://github.com/mathdroid/react-vr-gaze-button) - Extension of ReactVR's `VrButton`. Gaze for `{duration}` to click.
-* [TextInput](https://github.com/TeamRocketThesis/react-vr-textinput) - Text Input and Virtual Keyboard for React VR
+* [TextInput](https://github.com/TeamRocketThesis/react-vr-textinput) - Text Input and Virtual Keyboard for React VR.
 
 ## License
 
