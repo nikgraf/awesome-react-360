@@ -16,7 +16,7 @@
 
 ## Courses
 
-* [Build VR Experiences Using React VR](https://egghead.io/courses/build-virtual-reality-experiences-using-react-vr) - Free 36min Egghead Course on React VR Basics.
+* [Build VR Experiences Using React VR](https://egghead.io/courses/build-virtual-reality-experiences-using-react-vr) - 36min Egghead Course on React VR Basics.
 
 ## Blog Posts & Articles
 
