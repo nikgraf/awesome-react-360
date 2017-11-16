@@ -27,6 +27,7 @@
 * [How to Make React VR Apps](https://dzone.com/articles/how-to-make-react-vr-apps) - How to build a Tour with Panos.
 * [Building a Full-Sphere 3D Image Gallery with React VR](https://www.sitepoint.com/building-a-full-sphere-3d-image-gallery-with-react-vr/) - How to build an interactive Gallery.
 * [Building a realtime React VR app](https://blog.pusher.com/building-a-realtime-react-vr-app/) - How to build real-time VR music instrument.
+* [How to Add Custom Fonts on React VR Project](https://medium.com/@zvona/how-to-add-custom-fonts-on-react-vr-project-246c1a9b2984) - A blog post about adding custom fonts on your React VR project.
 
 ## Frameworks and Components
 * [LiveTourLab](https://github.com/livetourlab/live-tour-lab) - Framework for creating Live Tours.
