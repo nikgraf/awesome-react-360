@@ -6,7 +6,7 @@
 
 - [Presentations](https://github.com/nikgraf/awesome-react-vr#presentations)
 - [Blog Posts & Articles](https://github.com/nikgraf/awesome-react-vr#blog-posts--articles)
-- [Components](https://github.com/nikgraf/awesome-react-vr#components)
+- [Components](https://github.com/nikgraf/awesome-react-vr#frameworks-and-components)
 - [License](https://github.com/nikgraf/awesome-react-vr#license)
 
 ## Presentations
