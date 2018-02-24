@@ -35,6 +35,7 @@
 * [GazeButton](https://github.com/mathdroid/react-vr-gaze-button) - Extension of React VR's `VrButton`. Gaze for `{duration}` to click.
 * [TextInput](https://github.com/TeamRocketThesis/react-vr-textinput) - Text Input and Virtual Keyboard for React VR.
 * [ImageGallery](https://github.com/peterlazzarino/react-vr-image-gallery) - Carousel style image gallery component for React VR with gaze-enabled controls.
+* [GeoLocate](https://github.com/peterlazzarino/react-vr-geolocate) - Show geolocation information on a 3D representation of the earth. 
 
 ## License
 
