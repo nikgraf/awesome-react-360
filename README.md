@@ -1,6 +1,6 @@
-# Awesome React VR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome React 360 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[React VR](https://facebookincubator.github.io/react-vr/) lets you build VR websites and interactive 360 experiences with React
+[React 360](https://facebook.github.io/react-360/) lets you build VR websites and interactive 360 experiences with React
 
 **Table of Contents**
 
